@@ -12,7 +12,8 @@ O pipeline v2 de ingestão de PDFs usa **Docling** para extração de texto e ta
 **PDF analisado:** `Classico(2003) - Janaina Lais Pacheco Lara Morandin.pdf` — página 5 (2 tabelas).
 
 ---
-
+![Tabelas extraídas — página 5](Table.png)
+---
 ## Estratégias Comparadas
 
 ### A — Tabular (Markdown)
